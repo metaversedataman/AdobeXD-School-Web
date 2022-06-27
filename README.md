@@ -12,6 +12,12 @@ Web UI for secondary school with 26 pages, including sample images and texts. Pr
 
 [App Demo][2] | [Assets Demo][3] | [Prototype Demo][4]
 
+Main Navigation
+![Main Navigation](assets/gifs/main%20navigation.gif)
+
+Tab Navigation
+![Tab Navigation](assets/gifs/tab%20navigation.gif)
+
 # Included Pages
 
 home
